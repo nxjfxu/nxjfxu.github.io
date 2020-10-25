@@ -1,0 +1,3 @@
+[submodule "rhizome-guide"]
+	path = rhizome-guide
+	url = https://github.com/nxjfxu/rhizome-guide
